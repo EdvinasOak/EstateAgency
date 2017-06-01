@@ -1,0 +1,68 @@
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\bin\Debug\EstateAgent.exe.config
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.csprojResolveAssemblyReference.cache
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmLogIn.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmMain.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.Properties.Resources.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.csproj.GenerateResource.Cache
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\bin\Debug\EstateAgent.exe
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\bin\Debug\EstateAgent.pdb
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\bin\Debug\MySql.Data.DLL
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.exe
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.pdb
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmEmail.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmViewings2.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmNewViewing2.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmClients.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmSalesData.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmCancelViewings.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmAddProperty.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmProperty.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\bin\Debug\EstateAgent.exe.config
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.exe
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.pdb
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\bin\Debug\EstateAgent.exe
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\bin\Debug\EstateAgent.pdb
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.csprojResolveAssemblyReference.cache
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmAddProperty.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmCancelViewings.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmClients.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmEmail.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmLogIn.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmMain.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmNewViewing2.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmProperty.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmSalesData.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmViewings2.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.Properties.Resources.resources
+F:\6 Sem - Team Project\Working Project back up\EstateAgent\EstateAgent\obj\Debug\EstateAgent.csproj.GenerateResource.Cache
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.formOffer.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.FormUnderOffer.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmAddEmployee.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmUpdateStaff.resources
+C:\Users\Dawid\Desktop\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmUpdateStaffDetails.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\bin\Debug\EstateAgent.exe.config
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.exe
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.pdb
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\bin\Debug\EstateAgent.exe
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\bin\Debug\EstateAgent.pdb
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.csprojResolveAssemblyReference.cache
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.formOffer.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.FormUnderOffer.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmAddEmployee.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmAddProperty.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmCancelViewings.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmClients.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmEmail.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmLogIn.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmMain.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmNewViewing2.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmProperty.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmSalesData.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmUpdateStaff.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmUpdateStaffDetails.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.frmViewings2.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.Properties.Resources.resources
+H:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.csproj.GenerateResource.Cache
+F:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\bin\Debug\EstateAgent.exe.config
+F:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.exe
+F:\3 - FINAL APPLICATION\EstateAgent\EstateAgent\obj\Debug\EstateAgent.pdb
